@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "helios-naryady"
+version = "0.2.0"
+description = "Распознавание бумажных заказ-нарядов зуботехнической лаборатории по фото"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.2",
+    "pydantic>=2.7",
+    "pillow>=10",
+    "numpy>=1.26",
+    "opencv-python-headless>=4.9",
+    "python-dotenv>=1.0",
+    "gspread>=6",
+    "aiogram>=3.13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[project.scripts]
+naryad = "naryad.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

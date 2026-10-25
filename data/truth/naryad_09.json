@@ -1,0 +1,26 @@
+{
+  "number": "101",
+  "issued": "2026-10-20",
+  "clinic": "Улыбка+",
+  "doctor": "Петрова А.В.",
+  "patient": "Сидорова И.П.",
+  "technician": "Кузнецов",
+  "teeth": [
+    11,
+    21
+  ],
+  "works": [
+    {
+      "name": "Коронка",
+      "material": "цирконий",
+      "qty": 2,
+      "unit_price": 9000
+    }
+  ],
+  "shade": "A2",
+  "total": 18000,
+  "fitting_date": "2026-10-24",
+  "due_date": "2026-10-28",
+  "note": null,
+  "unreadable": []
+}

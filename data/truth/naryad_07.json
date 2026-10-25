@@ -1,0 +1,28 @@
+{
+  "number": "107",
+  "issued": "2026-10-23",
+  "clinic": "Улыбка+",
+  "doctor": "Смирнова О.Л.",
+  "patient": "Гусева Т.",
+  "technician": "Белов",
+  "teeth": [
+    16,
+    15,
+    25,
+    26
+  ],
+  "works": [
+    {
+      "name": "Бюгельный протез, верх",
+      "material": "КХС",
+      "qty": 1,
+      "unit_price": 25000
+    }
+  ],
+  "shade": "A3",
+  "total": 25000,
+  "fitting_date": "2026-10-30",
+  "due_date": "2026-11-06",
+  "note": null,
+  "unreadable": []
+}

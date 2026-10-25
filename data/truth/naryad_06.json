@@ -1,0 +1,31 @@
+{
+  "number": "106",
+  "issued": "2026-10-23",
+  "clinic": "Стомат-Сервис",
+  "doctor": "Ким Д.О.",
+  "patient": "Фёдоров В.Н.",
+  "technician": "Кузнецов",
+  "teeth": [
+    46
+  ],
+  "works": [
+    {
+      "name": "Коронка на имплант",
+      "material": "цирконий",
+      "qty": 1,
+      "unit_price": 14000
+    },
+    {
+      "name": "Абатмент индивидуальный",
+      "material": "титан",
+      "qty": 1,
+      "unit_price": 6000
+    }
+  ],
+  "shade": "A2",
+  "total": 21000,
+  "fitting_date": "2026-10-28",
+  "due_date": "2026-11-03",
+  "note": "на имплант",
+  "unreadable": []
+}

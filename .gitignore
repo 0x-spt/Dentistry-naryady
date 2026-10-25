@@ -1,0 +1,11 @@
+.venv/
+.env
+data/photos/
+data/inbox/
+results/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+secrets/
+QUIZ.md

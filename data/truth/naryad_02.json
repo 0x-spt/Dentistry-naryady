@@ -1,0 +1,31 @@
+{
+  "number": "102",
+  "issued": "2026-10-21",
+  "clinic": "Дента-Люкс",
+  "doctor": "Иванов С.С.",
+  "patient": "Морозова Е.А.",
+  "technician": "Белов",
+  "teeth": [
+    36
+  ],
+  "works": [
+    {
+      "name": "Культевая вкладка",
+      "material": "КХС",
+      "qty": 1,
+      "unit_price": 2500
+    },
+    {
+      "name": "Коронка",
+      "material": "металлокерамика",
+      "qty": 1,
+      "unit_price": 5500
+    }
+  ],
+  "shade": "A3",
+  "total": 8000,
+  "fitting_date": "2026-10-25",
+  "due_date": "2026-10-29",
+  "note": null,
+  "unreadable": []
+}

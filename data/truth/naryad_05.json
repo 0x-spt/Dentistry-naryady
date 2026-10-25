@@ -1,0 +1,23 @@
+{
+  "number": "105",
+  "issued": "2026-10-22",
+  "clinic": "Дента-Люкс",
+  "doctor": "Иванов С.С.",
+  "patient": "Захаров П.",
+  "technician": null,
+  "teeth": [],
+  "works": [
+    {
+      "name": "Каппа для отбеливания",
+      "material": null,
+      "qty": 2,
+      "unit_price": 4000
+    }
+  ],
+  "shade": null,
+  "total": 8000,
+  "fitting_date": null,
+  "due_date": "2026-10-26",
+  "note": "верх + низ",
+  "unreadable": []
+}

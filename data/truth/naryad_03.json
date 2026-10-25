@@ -1,0 +1,27 @@
+{
+  "number": "103",
+  "issued": "2026-10-21",
+  "clinic": "Стомат-Сервис",
+  "doctor": "Ким Д.О.",
+  "patient": "Лебедев А.",
+  "technician": "Кузнецов",
+  "teeth": [
+    14,
+    15,
+    16
+  ],
+  "works": [
+    {
+      "name": "Мост",
+      "material": "металлокерамика",
+      "qty": 3,
+      "unit_price": 5500
+    }
+  ],
+  "shade": "A3.5",
+  "total": 16500,
+  "fitting_date": "2026-10-27",
+  "due_date": "2026-10-31",
+  "note": "срочно",
+  "unreadable": []
+}

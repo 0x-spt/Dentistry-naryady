@@ -1,0 +1,27 @@
+{
+  "number": "108",
+  "issued": "2026-10-22",
+  "clinic": "Дента-Люкс",
+  "doctor": "Иванов С.С.",
+  "patient": "Белова К.",
+  "technician": "Кузнецов",
+  "teeth": [
+    13,
+    12,
+    11
+  ],
+  "works": [
+    {
+      "name": "Временная коронка",
+      "material": "PMMA",
+      "qty": 1,
+      "unit_price": 1500
+    }
+  ],
+  "shade": "A2",
+  "total": 4500,
+  "fitting_date": null,
+  "due_date": "2026-10-24",
+  "note": "временные, на 2 недели",
+  "unreadable": []
+}
